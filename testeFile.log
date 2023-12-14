@@ -1,0 +1,32 @@
+14:01:34.435 5178 [main]  INFO b.com.ProjectATFinal.PersonagemTest - Passou no teste com sucesso
+14:04:42.234 1027 [main]  INFO br.com.ProjectATFinal.App - Seja bem vindo a API de Dragon Ball Z!
+14:04:42.272 1065 [main]  INFO br.com.ProjectATFinal.App - Escolha uma opção
+14:04:42.273 1066 [main]  INFO br.com.ProjectATFinal.App - 1 - Buscar Personagem pelo ID  
+14:04:42.273 1066 [main]  INFO br.com.ProjectATFinal.App - 2 - Buscar Planeta pelo ID  
+14:04:51.369 10162 [main]  INFO br.com.ProjectATFinal.App - Digite o ID do personagem
+14:04:59.380 18173 [main]  INFO br.com.ProjectATFinal.App - Nome: Celula
+14:04:59.381 18174 [main]  INFO br.com.ProjectATFinal.App - Ki: 250.000.000
+14:04:59.381 18174 [main]  INFO br.com.ProjectATFinal.App - Raça: Android
+14:04:59.382 18175 [main]  INFO br.com.ProjectATFinal.App - Descrição: Cell conocido como Célula en España, es un bioandroide creado por la computadora del Dr. Gero, quien vino del futuro de la línea 3 con la intención de vengarse de Goku por haber acabado con el Ejército del Listón Rojo, y con ello el sueño de todo villano: dominar el mundo. Es el antagonista principal del Arco de los Androides y Cell.
+14:04:59.382 18175 [main]  INFO br.com.ProjectATFinal.App - Planeta de Origem: Tierra
+17:44:32.377 5006 [main]  INFO br.com.ProjectATFinal.App - Seja bem vindo a API de Dragon Ball Z!
+17:44:32.578 5207 [main]  INFO br.com.ProjectATFinal.App - Escolha uma opção
+17:44:32.579 5208 [main]  INFO br.com.ProjectATFinal.App - 1 - Buscar Personagem pelo ID  
+17:44:32.579 5208 [main]  INFO br.com.ProjectATFinal.App - 2 - Buscar Planeta pelo ID  
+17:47:21.448 550  [main]  INFO br.com.ProjectATFinal.App - Seja bem vindo a API de Dragon Ball Z!
+17:47:21.479 581  [main]  INFO br.com.ProjectATFinal.App - Escolha uma opção
+17:47:21.480 582  [main]  INFO br.com.ProjectATFinal.App - 1 - Buscar Personagem pelo ID  
+17:47:21.480 582  [main]  INFO br.com.ProjectATFinal.App - 2 - Buscar Planeta pelo ID  
+17:47:25.350 4452 [main]  INFO br.com.ProjectATFinal.App - Digite o ID do personagem
+17:47:31.259 10361 [main]  INFO br.com.ProjectATFinal.App - Nome: Vegeta
+17:47:31.260 10362 [main]  INFO br.com.ProjectATFinal.App - Ki: 54.000.000
+17:47:31.260 10362 [main]  INFO br.com.ProjectATFinal.App - Raça: Saiyan
+17:47:31.260 10362 [main]  INFO br.com.ProjectATFinal.App - Descrição: Príncipe de los Saiyans, inicialmente un villano, pero luego se une a los Z Fighters. A pesar de que a inicios de Dragon Ball Z, Vegeta cumple un papel antagónico, poco después decide rebelarse ante el Imperio de Freeza, volviéndose un aliado clave para los Guerreros Z. Con el paso del tiempo llegaría a cambiar su manera de ser, optando por permanecer y vivir en la Tierra para luchar a su lado contra las inminentes adversidades que superar. Junto con Piccolo, él es de los antiguos enemigos de Goku que ha evolucionando al pasar de ser un villano y antihéroe, a finalmente un héroe a lo largo del transcurso de la historia, convirtiéndose así en el deuteragonista de la serie.
+17:47:31.261 10363 [main]  INFO br.com.ProjectATFinal.App - Planeta de Origem: Vegeta
+17:47:40.976 617  [main]  INFO br.com.ProjectATFinal.App - Seja bem vindo a API de Dragon Ball Z!
+17:47:41.011 652  [main]  INFO br.com.ProjectATFinal.App - Escolha uma opção
+17:47:41.012 653  [main]  INFO br.com.ProjectATFinal.App - 1 - Buscar Personagem pelo ID  
+17:47:41.012 653  [main]  INFO br.com.ProjectATFinal.App - 2 - Buscar Planeta pelo ID  
+17:47:49.112 8753 [main]  INFO br.com.ProjectATFinal.App - Digite o ID do planeta
+17:48:01.998 21639 [main]  INFO br.com.ProjectATFinal.App - Nome: Freezer No. 79
+17:48:01.999 21640 [main]  INFO br.com.ProjectATFinal.App - Descrição: Planeta artificial utilizado por Freezer como base de operaciones y centro de clonación.
